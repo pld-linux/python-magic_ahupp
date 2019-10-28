@@ -11,7 +11,7 @@ Summary:	File type identification using libmagic
 Summary(pl.UTF-8):	Identyfikacja typu pliku przy użyciu libmagic
 Name:		python-magic_ahupp
 Version:	0.4.15
-Release:	1
+Release:	2
 License:	MIT
 Group:		Libraries/Python
 #Source0Download: https://pypi.org/simple/python-magic/
